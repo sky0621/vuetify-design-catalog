@@ -35,4 +35,14 @@ $ eslint --ext .js,.vue --ignore-path .gitignore . --fix
 ```
 
 ## ref
+### typescript
 https://typescript.nuxtjs.org/cookbook/components/
+
+### vuetify
+https://vuetifyjs.com/ja/getting-started/quick-start/
+
+### vuetify-module
+https://github.com/nuxt-community/vuetify-module
+
+### vuetify-playground
+https://codesandbox.io/s/nuxtjs-vuetify-v0k7i?file=/pages/index.vue
